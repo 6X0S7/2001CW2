@@ -1,6 +1,6 @@
 **Database used is the exact copy submitted in CW1 report.**
 **CW1 report has detailed overview and code used.**
-**There is also a docker file attached to this GitHub repo. Use it if you can.**
+**There is also a docker image file of the database attached to this GitHub repo. Use it if you can.**
 
 📚 Detailed Overview
 Core Features
